@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF: 1, TIGO SPORTS +
+https://d24zg71546pjzz.cloudfront.net:443/out/v1/8487b3e109af4961810beeb2339c91e3/index_6.m3u8
+#EXTINF: 1, Tigo Sport 
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  TVMAX Panamá
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF: 1, UNIVERSO OESTE
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/21_.m3u8
